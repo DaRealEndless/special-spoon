@@ -1,0 +1,35 @@
+span {
+    color: orangered;
+    font-size: 16px;
+}
+
+li img {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.image_text {
+    background: whitesmoke;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 5px 18px grey;
+    margin-top: 10px;
+}
+
+b {
+    color: darkolivegreen;
+}
+
+.bob3 {
+    text-align: center;
+    background: #dedddd;
+    border-radius: 20px;
+    padding: 10px;
+}
+h4{
+    color: red;
+    font-size: 20;
+    font-weight: bolder;
+}
